@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #7c3aed;
+}
+
+.main-box {
+    border: 2px solid #c4b5fd;
+    background-color: #a78bfa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
